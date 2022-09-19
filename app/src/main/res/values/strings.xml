@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">desafio_android_kotlin</string>
+    <string name="foto_do_personagem">Foto do personagem</string>
+    <string name="descricao_do_personagem">Descrição do personagem</string>
 </resources>
